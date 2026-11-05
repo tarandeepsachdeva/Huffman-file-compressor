@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+*.huff
+*.out
+.DS_Store
